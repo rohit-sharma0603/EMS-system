@@ -12,8 +12,8 @@ export default function App (){
       const[addPassword,setAddPassword]=useState("");
       const [createdName, setCreatedName]=useState([])
 
-      const secretValue='r'
-      const secretPassword='r'
+      const secretValue='rohitsharma1@gmail.com'
+      const secretPassword='1234'
       // useEffect(()=>{
       //   console.log('1')
       //   const abc=localStorage.getItem('todo')
